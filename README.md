@@ -1,4 +1,4 @@
-# 🏏 T20 Cricket Analyzer
+# 🏏 T20 Cricket Performance Dashboard
 
 ## 🌟 Project Overview
 
